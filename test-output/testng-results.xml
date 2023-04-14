@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-12T06:55:25Z" name="TmpSuite" finished-at="2023-04-12T06:55:49Z" duration-ms="23921">
+    <groups>
+    </groups>
+    <test started-at="2023-04-12T06:55:25Z" name="TmpTest" finished-at="2023-04-12T06:55:49Z" duration-ms="23921">
+      <class name="org.example.PerfTest">
+        <test-method signature="testSubmit()[pri:0, instance:org.example.PerfTest@5f375618]" started-at="2023-04-12T12:25:25Z" name="testSubmit" finished-at="2023-04-12T12:25:49Z" duration-ms="23908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmit -->
+      </class> <!-- org.example.PerfTest -->
+    </test> <!-- TmpTest -->
+  </suite> <!-- TmpSuite -->
+</testng-results>
